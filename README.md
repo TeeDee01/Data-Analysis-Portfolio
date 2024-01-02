@@ -1,5 +1,9 @@
 # Data-Analysis-Portfolio
 
+## Table of Content
+
+- [Data Analysis](data-analysis)
+
 ## Data Source
 - Ms Excel for Data Cleaning [Download here](https://microsoft.com)
 - SQL Server for Querying and Analysis
