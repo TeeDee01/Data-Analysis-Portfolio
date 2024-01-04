@@ -10,6 +10,9 @@
 - SQL Server for Querying and Analysis
 - Power BI for Reporting
 
+
+![TeeDee](https://github.com/TeeDee01/Data-Analysis-Portfolio/assets/58027448/5a39f8dc-a93b-4719-a93e-03540aa025d8)
+
 ### Data Analysis
 ```SQL
 SELECT * Table1
