@@ -22,3 +22,14 @@ WHERE cond = 2
 ``` M LANG
 Table.RemoveColumns(#"Changed Type",{"Column1"})
 ```
+| Heading 1|Heading 2|
+|----------|---------|
+|Column 1| Column 2|
+
+😃
+
+💻
+
+`Column 1`
+
+`Table 1 = Tabl 2+Table 3`
