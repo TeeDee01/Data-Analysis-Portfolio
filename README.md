@@ -34,4 +34,4 @@ Table.RemoveColumns(#"Changed Type",{"Column1"})
 
 `Table 1 = Tabl 2+Table 3`
 
-![](image.png)
+![](DAF.JPG)
