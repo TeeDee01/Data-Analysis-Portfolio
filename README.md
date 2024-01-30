@@ -33,3 +33,5 @@ Table.RemoveColumns(#"Changed Type",{"Column1"})
 `Column 1`
 
 `Table 1 = Tabl 2+Table 3`
+
+![](image.png)
